@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git Client</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="progress_bar_title">Loading...</string>
+    <string name="logout_title">Logout</string>
+    <string name="home_activity_title">Repositories</string>
+</resources>
